@@ -4,3 +4,9 @@
 [submodule "tracy"]
 	path = tracy
 	url = https://github.com/wolfpld/tracy
+[submodule "googletest"]
+	path = googletest
+	url = https://github.com/google/googletest
+[submodule "benchmark"]
+	path = benchmark
+	url = https://github.com/google/benchmark
